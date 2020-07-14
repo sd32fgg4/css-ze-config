@@ -3,7 +3,7 @@
 The css ze config are mostly private plugins and hard to find. So I created this Github to share with ze server administrators.
 Contact me: https://supreme-elite.fr/
 
-A collection of entWatch, stripper and BossHud configs for GFL CS:SOURCE ZE, please be aware that the stripper configs are not an extensive list of everything used on our server.
+A collection of entWatch, stripper and BossHP configs for Supreme-Elite CS:SOURCE ZE, please be aware that the stripper configs are not an extensive list of everything used on our server.
 
 # How to Contribute
 
